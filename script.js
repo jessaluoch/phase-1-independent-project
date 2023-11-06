@@ -44,7 +44,7 @@ const getMovie = () => {
         `;
         }
         else {
-          result.innerHTML = `<h3 class="msg">MOVIE NOT FOUND</h3>`;
+          result.innerHTML = `<h3 class="msg">ANIME NOT FOUND</h3>`;
         }
       });
   }
